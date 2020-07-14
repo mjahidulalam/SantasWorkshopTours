@@ -1,2 +1,0 @@
-# SantasWorkshopTours
-Kaggle Optimization Challenge
